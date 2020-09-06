@@ -1,6 +1,9 @@
-# springboot email
+# springboot gmail
 
-### test
+### gmail test
+
+`spring.mail.username=전송자이메일`
+`spring.mail.password=전송자이메일비번`
 
 `POST 요청 
 http://localhost:8080/mail`
